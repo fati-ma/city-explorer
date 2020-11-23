@@ -90,6 +90,7 @@ function trailsHandler(req, res) {
   });
 }
 
+
 function Trail(data) {
   this.name = data.name;
   this.location = data.location;
