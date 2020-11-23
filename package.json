@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
+
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
@@ -11,6 +12,7 @@
     "superagent": "^6.1.0"
   },
   "devDependencies": {},
+
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
@@ -25,5 +27,14 @@
   "bugs": {
     "url": "https://github.com/fati-ma/city-explorer/issues"
   },
+
   "homepage": "https://github.com/fati-ma/city-explorer#readme"
+
+  "homepage": "https://github.com/fati-ma/city-explorer#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+
 }
