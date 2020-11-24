@@ -15,9 +15,6 @@
   },
   "devDependencies": {},
 
-    "superagent": "^6.1.0"
-  },
-  "devDependencies": {},
 
 
   "scripts": {
@@ -41,4 +38,4 @@
 
 
 
-}
+
