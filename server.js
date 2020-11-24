@@ -23,6 +23,7 @@ app.get('/trails', trailsHandler);
 app.get('*', notFoundPageHandler);
 // app.use(errorHandler);
 
+
 function locationHandlerFunc(req, res) {
 
     let cityName = req.query.city;
