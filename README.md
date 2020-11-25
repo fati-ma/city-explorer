@@ -1,22 +1,14 @@
 
-# APIs
-
-**Author**: Fatima Atieh
-
-**Version**: 1.0.0 
-
-## Overview
-This application provides the information about various locations around the world, and it provides the user of other details like the weather of this location. We built it as an assignment for lab 7.
-=======
 # City Explorer
-# Lab: 06 - Node, npm, and Express
+# Lab: 09
 
 **Author**: Fatima Atieh
+
 **Version**: 1.0.0 
 
 ## Overview
 This application provides the information about various locations around the world, and it provides the user of other details like the weather of this location.
-We built as an assignment for lab 6.
+We built as an assignment for lab 9.
 
 
 ## Getting Started
@@ -30,9 +22,7 @@ We built as an assignment for lab 6.
 8. Write a constructor for each json file you want to use
 9. get the data from the server and send them back to the fron-end as a response
 10. Handle errors
-
 11. Deploy on Heroku
-=======
 
 
 ## Architecture
@@ -40,32 +30,20 @@ We built as an assignment for lab 6.
 - Libraries: express, cors, dotenv
 
 ## Change Log
-
+At 4:00 pm finished the lab
 
 
 ## Credits and Collaborations
-This application was built in collaboration with Aseel Mesmar
+
+This application was built in collaboration with Aseel Mesmar(Lab 6-7) and Hala Al-Sawaeer(Lab 8-9)
 
 # ----------------------------------------
+
 Number and name of feature: All features
-
-Estimate of time needed to complete: 3:15 hours
-
-Start time: 2:15 pm
-
-Finish time: 4:50 pm
-
-=======
-## Credits and Collaborations
-This application was built in collaboration with Aseel Mesmar
-
-
-Number and name of feature: All the features
 
 Estimate of time needed to complete: 3 hours
 
-Start time: 2:00 pm
+Start time: 1:00 pm
 
-Finish time: 3:30 pm
+Finish time: 4:00 pm
 
-Actual time needed to complete: 2 hours
